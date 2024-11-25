@@ -1,2 +1,2 @@
-# L-gica-de-programa-o
+# Lógica-de-programção
 Mergulhando em programação com JavaScript
